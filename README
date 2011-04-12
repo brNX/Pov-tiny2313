@@ -1,0 +1,1 @@
+Pov display using attiny2313 running at 1MHZ, using pin pd3 to count rotation speed (ir receiver used)
